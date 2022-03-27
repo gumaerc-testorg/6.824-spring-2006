@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c997e41e-1922-a341-23a2-40acbb0edd90
 resourcetype: Document
 title: harp.pdf
 uid: 99b182de-cb0a-55e7-5570-e81d0d9ac858

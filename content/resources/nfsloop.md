@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c997e41e-1922-a341-23a2-40acbb0edd90
 resourcetype: Document
 title: nfsloop.pdf
 uid: 9326b4e7-325c-f7b5-6702-1eb4d8661dfb

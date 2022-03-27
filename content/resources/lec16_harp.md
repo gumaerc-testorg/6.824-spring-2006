@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8e78a43f-dc3c-674e-0edc-395d857ba5e6
 resourcetype: Document
 title: lec16_harp.pdf
 uid: 3cc5add2-035c-0fb6-a3de-ad815aa5d0c6

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c997e41e-1922-a341-23a2-40acbb0edd90
 resourcetype: Document
 title: flash.pdf
 uid: 493f120f-35de-19fe-fc23-db9fbfd77cea

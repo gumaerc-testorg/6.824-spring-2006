@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c997e41e-1922-a341-23a2-40acbb0edd90
 resourcetype: Document
 title: hagmann.pdf
 uid: a608a445-7271-be45-5ffa-18a614ba94e7

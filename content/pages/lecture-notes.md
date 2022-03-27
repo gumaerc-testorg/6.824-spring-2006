@@ -33,9 +33,9 @@ Introduction and O/S review ([PDF]({{< baseurl >}}/resources/lec1))
 {{< tdopen >}}
 
 
-syscall.c ([C](/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/lecture-notes/syscall.c))
+syscall.c ([C]({{< baseurl >}}/resources/syscall))
 
-webserver.c ([C](/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/lecture-notes/webserver.c))
+webserver.c ([C]({{< baseurl >}}/resources/webserver))
 
 
 {{< tdclose >}}
@@ -57,11 +57,11 @@ Event-driven programming ([PDF 2]({{< baseurl >}}/resources/lec2_events))
 {{< tdopen >}}
 
 
-events.c ([C](/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/lecture-notes/events.c))
+events.c ([C]({{< baseurl >}}/resources/events))
 
-webclient.c ([C](/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/lecture-notes/webclient.c))
+webclient.c ([C]({{< baseurl >}}/resources/webclient))
 
-webclient\_libasync.c ([C](/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/lecture-notes/webclient_libasync.c))
+webclient\_libasync.c ([C]({{< baseurl >}}/resources/webclient_libasync))
 
 
 {{< tdclose >}}
@@ -75,7 +75,7 @@ webclient\_libasync.c ([C](/courses/electrical-engineering-and-computer-science/
 Event-driven programming (cont.) ([PDF]({{< baseurl >}}/resources/lec3_events))
 {{< tdclose >}}
 {{< tdopen >}}
-arpc.c ([C](/courses/electrical-engineering-and-computer-science/6-824-distributed-computer-systems-engineering-spring-2006/lecture-notes/arpc.c))
+arpc.c ([C]({{< baseurl >}}/resources/arpc))
 {{< tdclose >}}
 
 {{< trclose >}}

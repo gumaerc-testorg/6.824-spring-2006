@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: c6bbff67-7478-f7d2-6053-2d402c0b0bf7
 resourcetype: Other
 title: lab4.tgz
 uid: 3e8a65df-69b6-157b-92a3-f81080b6d81c

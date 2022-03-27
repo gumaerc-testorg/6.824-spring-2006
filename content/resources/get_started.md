@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: c6bbff67-7478-f7d2-6053-2d402c0b0bf7
 resourcetype: Document
 title: get_started.pdf
 uid: a5ba851a-a5a2-14dd-fa9b-b2f1ee378113

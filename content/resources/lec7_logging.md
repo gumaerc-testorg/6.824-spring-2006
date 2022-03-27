@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8e78a43f-dc3c-674e-0edc-395d857ba5e6
 resourcetype: Document
 title: lec7_logging.pdf
 uid: cf19ab3c-b917-d2c3-861c-fd8e2773b2cc
