@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout with example code.
-file: /media/courses/6-824-distributed-computer-systems-engineering-spring-2006/74b2d64c3b9cb9e6aa7db6329f651600_arpc.c
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/74b2d64c3b9cb9e6aa7db6329f651600_arpc.c
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: arpc.c
 uid: 74b2d64c-3b9c-b9e6-aa7d-b6329f651600
 ---
+Lecture handout with example code.
+

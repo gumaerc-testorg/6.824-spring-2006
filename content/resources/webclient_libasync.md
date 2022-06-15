@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout with example code.
-file: /media/courses/6-824-distributed-computer-systems-engineering-spring-2006/e0f9f9811f7a5ad82507fba6ac8901fe_webclient_libasync.c
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/e0f9f9811f7a5ad82507fba6ac8901fe_webclient_libasync.c
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: webclient_libasync.c
 uid: e0f9f981-1f7a-5ad8-2507-fba6ac8901fe
 ---
+Lecture handout with example code.
+

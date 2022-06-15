@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information about the lab assignments, class machines,
+  and aids for working in labs.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
 title: Labs
 uid: c6bbff67-7478-f7d2-6053-2d402c0b0bf7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Laboratory Assignments
@@ -31,7 +37,7 @@ SUPPORTING FILES
 0
 {{< tdclose >}}
 {{< tdopen >}}
-Getting started ([PDF]({{< baseurl >}}/resources/get_started))
+Getting started ({{% resource_link a5ba851a-a5a2-14dd-fa9b-b2f1ee378113 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -43,10 +49,10 @@ Getting started ([PDF]({{< baseurl >}}/resources/get_started))
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Lock server ([PDF]({{< baseurl >}}/resources/lab1))
+Lock server ({{% resource_link 249a3c22-4b01-f254-7ee2-5a3971ce2a73 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-lab-1.zip ([ZIP]({{< baseurl >}}/resources/lab1-2)) (The ZIP file contains: 5 .c files, 2 .h files, 1 Makefile, and 1 .x file.)
+lab-1.zip ({{% resource_link 87a3ee7e-b7ad-73ad-cfe7-49e3b5f749dd "ZIP" %}}) (The ZIP file contains: 5 .c files, 2 .h files, 1 Makefile, and 1 .x file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,10 +61,10 @@ lab-1.zip ([ZIP]({{< baseurl >}}/resources/lab1-2)) (The ZIP file contains: 5 .c
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Basic file server ([PDF]({{< baseurl >}}/resources/lab2-2))
+Basic file server ({{% resource_link 67387d70-5672-a2c8-3be3-3c8b2f595db4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-lab-2.zip ([ZIP]({{< baseurl >}}/resources/lab2)) (The ZIP file contains: 5 .c files, 3 .h files, 2 .x files, 1 .pl file, and 1 Makefile.)
+lab-2.zip ({{% resource_link 291a435c-6e83-60dc-bf9f-cc312ae558f8 "ZIP" %}}) (The ZIP file contains: 5 .c files, 3 .h files, 2 .x files, 1 .pl file, and 1 Makefile.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,10 +73,10 @@ lab-2.zip ([ZIP]({{< baseurl >}}/resources/lab2)) (The ZIP file contains: 5 .c f
 3
 {{< tdclose >}}
 {{< tdopen >}}
-File server: Reading, writing, and sharing files ([PDF]({{< baseurl >}}/resources/lab3))
+File server: Reading, writing, and sharing files ({{% resource_link 66657c51-906f-8ac1-8d9b-7786004253e4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-lab-3.zip ([ZIP]({{< baseurl >}}/resources/lab3-1)) (The ZIP file contains: test-lab-3.pl.)
+lab-3.zip ({{% resource_link 984cb68e-2870-9677-fe20-14e1ebabb999 "ZIP" %}}) (The ZIP file contains: test-lab-3.pl.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,10 +85,10 @@ lab-3.zip ([ZIP]({{< baseurl >}}/resources/lab3-1)) (The ZIP file contains: test
 4
 {{< tdclose >}}
 {{< tdopen >}}
-MKDIR, REMOVE, and locking ([PDF]({{< baseurl >}}/resources/lab4-2))
+MKDIR, REMOVE, and locking ({{% resource_link 815ab2a0-8125-3925-0d25-5b084e07ab7e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-lab-4.zip ([ZIP]({{< baseurl >}}/resources/lab4)) (The ZIP file contains: 6 .c files, 3 .h files, 2 .x files, 1 Makefile, and 1 .pl file.)
+lab-4.zip ({{% resource_link ed34f3f6-395c-d377-ec14-a9123c7fc50d "ZIP" %}}) (The ZIP file contains: 6 .c files, 3 .h files, 2 .x files, 1 Makefile, and 1 .pl file.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +97,7 @@ lab-4.zip ([ZIP]({{< baseurl >}}/resources/lab4)) (The ZIP file contains: 6 .c f
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Cache consistency ([PDF]({{< baseurl >}}/resources/lab5))
+Cache consistency ({{% resource_link b55ec784-a521-d8ca-4e2f-97a086b68972 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

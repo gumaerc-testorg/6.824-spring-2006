@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout with example code.
-file: /media/courses/6-824-distributed-computer-systems-engineering-spring-2006/1c12e09c60e6c631b0898d11bf94edc2_syscall.c
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/1c12e09c60e6c631b0898d11bf94edc2_syscall.c
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: syscall.c
 uid: 1c12e09c-60e6-c631-b089-8d11bf94edc2
 ---
+Lecture handout with example code.
+

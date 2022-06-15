@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout with example code.
-file: /media/courses/6-824-distributed-computer-systems-engineering-spring-2006/d1268fc06f935b12c6c37fcbd9117003_webclient.c
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/d1268fc06f935b12c6c37fcbd9117003_webclient.c
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Other
 title: webclient.c
 uid: d1268fc0-6f93-5b12-c6c3-7fcbd9117003
 ---
+Lecture handout with example code.
+
