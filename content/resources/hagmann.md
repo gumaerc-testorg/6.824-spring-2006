@@ -7,6 +7,7 @@ file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/a608a4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Discussion notes. Hagmann, Robert. "Reimplementing the Cedar File System Using Logging and Group Commit." ACM Operating Systems Review, SIGOPS 21, no. 5 (1987): 155-162.
-

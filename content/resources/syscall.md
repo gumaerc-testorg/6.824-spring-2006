@@ -5,6 +5,7 @@ file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/1c12e0
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: syscall.c
 uid: 1c12e09c-60e6-c631-b089-8d11bf94edc2
 ---
 Lecture handout with example code.
-

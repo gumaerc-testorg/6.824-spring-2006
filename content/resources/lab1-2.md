@@ -6,6 +6,7 @@ file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/87a3ee
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting files Lab 1: Lock Server. The ZIP file contains: 5 .c files, 2 .h files, 1 Makefile, and 1 .x file.
-

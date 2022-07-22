@@ -5,6 +5,7 @@ file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/c9f78b
 file_type: application/x-gzip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

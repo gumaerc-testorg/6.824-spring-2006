@@ -5,6 +5,7 @@ file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/b55ec7
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Laboratory assignment pn Cache Consistency.
-

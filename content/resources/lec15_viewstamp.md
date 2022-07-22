@@ -8,6 +8,7 @@ file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/0c5a97
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 Lecture notes about Viewstamped Replication: A New Primary Copy Method to Support
 Highly-Available Distributed Systems.
-
