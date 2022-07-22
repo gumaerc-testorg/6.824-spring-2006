@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides information about the final project for the course,
+  including introduction, grades, suggestions for projects, and what to hand in.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 4d330825-fdf8-34cf-0e1d-7a2b6a4809af
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< anchor "Due_Date" >}}{{< /anchor >}}Due date for team list: Lec #6  
@@ -60,7 +69,7 @@ Doing a good project is a daunting task. The most successful projects tend to be
 
 Feel free to base your implementation on the code that we supply you for the labs, or on your lab solutions.
 
-You could look for inspiration about hot topics in the on-line proceedings of recent [SOSP](http://www.cs.rochester.edu/meetings/sosp2003/), [OSDI](http://www.usenix.org/events/osdi04/), [Usenix](http://www.usenix.org/events/usenix04/), and [NSDI](http://www.usenix.org/events/nsdi04/) conferences. You might also want to look at 6.824 projects from previous years. ([PDF]({{< baseurl >}}/resources/prev_projects))
+You could look for inspiration about hot topics in the on-line proceedings of recent [SOSP](http://www.cs.rochester.edu/meetings/sosp2003/), [OSDI](http://www.usenix.org/events/osdi04/), [Usenix](http://www.usenix.org/events/usenix04/), and [NSDI](http://www.usenix.org/events/nsdi04/) conferences. You might also want to look at 6.824 projects from previous years. ({{% resource_link 2d17c206-9a82-c00f-08fa-dde727802bec "PDF" %}})
 
 If you're having trouble thinking of a project idea, some of the topics below might help get you started.
 

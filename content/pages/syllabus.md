@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: The syllabus section provides information about the structure of the
+  course, grading, collaboration policy, useful books, recommended citation, and a
+  calendar of lecture topics and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2c27ab09-84cb-5de2-792c-18f7491089c4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -16,7 +25,7 @@ Structure
 
 6.824 is a core graduate subject with lectures, labs, quizzes, and a final project. 6.824 is 12 units. 6 Engineering Design Points.
 
-Lectures meet two times a week. Most class meetings will be one half lecture and one half paper discussion. You should read the paper **before** coming to class, and be prepared to discuss it. You can find out what paper to read for each meeting given in the [readings]({{< baseurl >}}/pages/readings) section.
+Lectures meet two times a week. Most class meetings will be one half lecture and one half paper discussion. You should read the paper **before** coming to class, and be prepared to discuss it. You can find out what paper to read for each meeting given in the {{% resource_link c997e41e-1922-a341-23a2-40acbb0edd90 "readings" %}} section.
 
 We will post a question about each paper 24 hours before we discuss the paper. Please bring your answer to class on a sheet of paper and hand it in. Your answer need only be long enough to demonstrate that you understand the paper; a paragraph or two will usually be enough. We won't hand back the questions, but we will glance at them to make sure your answer makes sense, and they will count for part of the paper discussion grade.
 
@@ -24,7 +33,7 @@ We will post a question about each paper 24 hours before we discuss the paper. P
 
 There are programming labs due every week or two for the first half of the term.
 
-In the second half of the term you'll undertake a [project]({{< baseurl >}}/pages/projects) in small teams. Each team will design and implement a system of its choice. Each team will also write a research paper about its project.
+In the second half of the term you'll undertake a {{% resource_link 4d330825-fdf8-34cf-0e1d-7a2b6a4809af "project" %}} in small teams. Each team will design and implement a system of its choice. Each team will also write a research paper about its project.
 
 Grading
 -------
