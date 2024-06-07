@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about Paxos.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/931673e36ad8ab1efd3d3e5dcb240485_lec14_paxos.pdf
+file_size: 23818
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

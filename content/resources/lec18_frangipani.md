@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about a Scalable Distributed File System.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/d1575cb82c17e57bce7accfae289c152_lec18_frangipani.pdf
+file_size: 16453
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
