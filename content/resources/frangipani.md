@@ -4,6 +4,7 @@ description: 'Discussion notes. Thekkath, Chandramohan, Timothy Mann, and Edward
   "Frangipani: A Scalable Distributed File System." Proceedings of the 16th ACM Symposium
   on Operating Systems Principles, Saint Malo, France, 1997, pp. 224-237.'
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/b22220c50d950e057daafcadea15d5d5_frangipani.pdf
+file_size: 64771
 file_type: application/pdf
 learning_resource_types:
 - Readings
