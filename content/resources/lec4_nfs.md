@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about a case study of the Network File System (NFS).
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/43f47eb203f127a22770232b8fecf614_lec4_nfs.pdf
+file_size: 21300
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Laboratory assignment on basic file servers.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/67387d705672a2c83be33c8b2f595db4_lab2.pdf
+file_size: 42971
 file_type: application/pdf
 learning_resource_types:
 - Labs

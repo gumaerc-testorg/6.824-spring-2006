@@ -4,6 +4,7 @@ description: Discussion notes. Li, Jinyuan, Maxwell Krohn, David Mazi?res, Denni
   Shasha. "Secure Untrusted Data Repository (SUNDR)." Proceedings of the 6th Symposium
   on Operating Systems Design and Implementation, San Francisco, CA, December 2004.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/84e8a775998b0255a337ff371c0b3cde_sundr.pdf
+file_size: 69691
 file_type: application/pdf
 learning_resource_types:
 - Readings

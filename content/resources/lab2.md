@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting files Lab 2: Basic File Server. The ZIP file contains: 5
   .c files, 3 .h files, 2 .x files, 1 .pl file, and 1 Makefile.'
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/291a435c6e8360dcbf9fcc312ae558f8_lab2.zip
+file_size: 12620
 file_type: application/zip
 learning_resource_types:
 - Labs

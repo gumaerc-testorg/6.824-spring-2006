@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about Memory Consistency.
 file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/dcf13a128d3c914fd2096bda16e84211_lec11_memory.pdf
+file_size: 23137
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
