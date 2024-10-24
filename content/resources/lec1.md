@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with an introduction to the course and review of O/S.
-file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/f8c433edc82e161324a038139c333962_lec1.pdf
+file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/f8c433edc82e161324a038139c333962_lec1.pdf
 file_size: 28346
 file_type: application/pdf
 learning_resource_types:
