@@ -2,7 +2,7 @@
 content_type: resource
 description: A list of final projects from previous years to help students pick a
   subject for the final project.
-file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/2d17c2069a82c00f08fadde727802bec_prev_projects.pdf
+file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/2d17c2069a82c00f08fadde727802bec_prev_projects.pdf
 file_size: 29996
 file_type: application/pdf
 learning_resource_types:

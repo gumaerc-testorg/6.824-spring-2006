@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes providing an introduction to the 5.824 labs, including
   instructions on logging into the machines, reading manual pages, compiling C/C++
   programs, and understanding Makefiles.
-file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/a5ba851aa5a214ddfa9bb2f1ee378113_get_started.pdf
+file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/a5ba851aa5a214ddfa9bb2f1ee378113_get_started.pdf
 file_size: 51210
 file_type: application/pdf
 learning_resource_types:
