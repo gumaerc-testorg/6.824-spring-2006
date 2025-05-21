@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about Scalable Lookup.
-file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/a560bc8375dec9c101c8a9f7cbc684c7_lec19_scalable.pdf
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/a560bc8375dec9c101c8a9f7cbc684c7_lec19_scalable.pdf
 file_size: 27733
 file_type: application/pdf
 learning_resource_types:

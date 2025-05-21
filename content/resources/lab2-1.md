@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/82fca11e60cf8c4b7103d9324d021a80_lab2.tgz
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/82fca11e60cf8c4b7103d9324d021a80_lab2.tgz
 file_size: 9347
 file_type: application/x-gzip
 learning_resource_types:
