@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial on cache consistency and locking.
-file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/4c9e3f840c6588867f5a6332d8011419_lec8_cache.pdf
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/4c9e3f840c6588867f5a6332d8011419_lec8_cache.pdf
 file_size: 21285
 file_type: application/pdf
 learning_resource_types:

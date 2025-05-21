@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm exam solutions from Spring 2005.
-file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/a8bf752dc3de02c7dc40147c55965c73_quiz1_05_ans.pdf
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/a8bf752dc3de02c7dc40147c55965c73_quiz1_05_ans.pdf
 file_size: 77671
 file_type: application/pdf
 learning_resource_types:

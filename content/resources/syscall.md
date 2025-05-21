@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout with example code.
-file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/1c12e09c60e6c631b0898d11bf94edc2_syscall.c
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/1c12e09c60e6c631b0898d11bf94edc2_syscall.c
 file_size: 712
 file_type: text/plain
 learning_resource_types:
