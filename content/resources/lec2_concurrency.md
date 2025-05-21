@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about I/O Concurrency.
-file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/218dc61c38c02d26cb8dcb9193268a4c_lec2_concurrency.pdf
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/218dc61c38c02d26cb8dcb9193268a4c_lec2_concurrency.pdf
 file_size: 23496
 file_type: application/pdf
 learning_resource_types:

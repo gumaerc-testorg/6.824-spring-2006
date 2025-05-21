@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about Logging.
-file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/cf19ab3cb917d2c3861cfd8e2773b2cc_lec7_logging.pdf
+file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/cf19ab3cb917d2c3861cfd8e2773b2cc_lec7_logging.pdf
 file_size: 25354
 file_type: application/pdf
 learning_resource_types:
