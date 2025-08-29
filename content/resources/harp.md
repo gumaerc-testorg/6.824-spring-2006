@@ -3,7 +3,7 @@ content_type: resource
 description: Discussion notes. Liskov, Barbara, et al. "Replication in the Harp File
   System." Proceedings of the 13th ACM Symposium on Operating Systems Principles,
   Pacific Grove, CA, October 1991, pp. 226-38.
-file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/99b182decb0a55e75570e81d0d9ac858_harp.pdf
+file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/99b182decb0a55e75570e81d0d9ac858_harp.pdf
 file_size: 72710
 file_type: application/pdf
 learning_resource_types:
