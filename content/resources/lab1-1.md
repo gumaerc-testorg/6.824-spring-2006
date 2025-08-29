@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/e5cf4dd0328472b072735dd8ed962783_lab1.tgz
+file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/e5cf4dd0328472b072735dd8ed962783_lab1.tgz
 file_size: 5113
 file_type: application/x-gzip
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

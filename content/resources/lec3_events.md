@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about plans for event driven programming.
-file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/38dc024fe5e0b8fe7115d4e19d2476ba_lec3_events.pdf
+file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/38dc024fe5e0b8fe7115d4e19d2476ba_lec3_events.pdf
 file_size: 18927
 file_type: application/pdf
 learning_resource_types:

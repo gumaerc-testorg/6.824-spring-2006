@@ -3,7 +3,7 @@ content_type: page
 description: This section provides information about the lab assignments, class machines,
   and aids for working in labs.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: c6bbff67-7478-f7d2-6053-2d402c0b0bf7
