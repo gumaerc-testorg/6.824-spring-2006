@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Laboratory assignment on MKDIR, REMOVE, and Locking.
-file: /courses/6-824-distributed-computer-systems-engineering-spring-2006/815ab2a0812539250d255b084e07ab7e_lab4.pdf
+file: /ol-ocw-studio-app/courses/6-824-distributed-computer-systems-engineering-spring-2006/815ab2a0812539250d255b084e07ab7e_lab4.pdf
 file_size: 46221
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
