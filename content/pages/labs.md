@@ -126,10 +126,10 @@ Mazières, David, Michael Kaminsky, M. Frans Kaashoek, and Emmett Witchel. "Sepa
 
 Mazières, David. "A Toolkit for User-level File Systems." Proceedings of the USENIX Technical Conference (June 2001): 261-274.
 
-*   **FreeBSD Architecture**: You can find a good summary of how FreeBSD works in an appendix to the Operating Systems Concepts book by Silberschatz, Galvin, and Gagne. Click on The FreeBSD System link on the following {{% resource_link "9af90a0c-968b-469e-91b5-fb055141975e" "Web site" %}}. FreeBSD is the UNIX® variant running on the 6.824 machines.)  
+*   **FreeBSD Architecture**: You can find a good summary of how FreeBSD works in an appendix to the Operating Systems Concepts book by Silberschatz, Galvin, and Gagne. Click on The FreeBSD System link on the following [Web site](http://codex.cs.yale.edu/avi/os-book/). FreeBSD is the UNIX® variant running on the 6.824 machines.)  
       
      
 *   **UNIX® network programming**: W. Richard Stevens' books "UNIX® Network Programming'" Volume 1 and 2 are classic references for network programming. If you are struggling with the sockets interface it could be a helpful purchase. See the useful book list in the syllabus for other helpful references.  
       
      
-*   **Core files**: When/if your program crashes it will leave a core file behind (named something.core). Examining core files with gdb is a valuable way to learn what went wrong. To get started with gdb type: "gdb program program.core" and then type the gdb command "bt". GDB will return a trace showing exactly where the program crashed. GDB offers many more features. Check out {{% resource_link "eb5b5bf8-040d-4093-9b4c-8ae3c251bf48" "the GDB manual" %}} for full documentation.
+*   **Core files**: When/if your program crashes it will leave a core file behind (named something.core). Examining core files with gdb is a valuable way to learn what went wrong. To get started with gdb type: "gdb program program.core" and then type the gdb command "bt". GDB will return a trace showing exactly where the program crashed. GDB offers many more features. Check out [the GDB manual](http://www.gnu.org/software/gdb/documentation/) for full documentation.
